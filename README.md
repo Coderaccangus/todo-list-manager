@@ -40,7 +40,7 @@ Running the App with Docker:
 
     Clone the repo:
 
-git clone <your-repo-url>
+git clone <https://github.com/Coderaccangus/todo-list-manager>
 cd todo-list-manager
 
     Add your environment variables:
