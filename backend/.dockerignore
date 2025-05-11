@@ -1,0 +1,19 @@
+# Dependency folders
+node_modules
+npm-debug.log
+
+# Environment files
+.env
+
+# Docker & OS-specific files
+Dockerfile
+Dockerfile.*
+.dockerignore
+.vscode
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/

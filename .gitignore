@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Docker artifacts
+docker-compose.override.yml
+docker-data/
+*.local
+*.pid
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS swap/temp files
+*.swp
+*.swo
+
+# coverage and test reports
+coverage/
