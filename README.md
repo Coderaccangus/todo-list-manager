@@ -36,6 +36,9 @@ todo-list-manager/
 ├── docker-compose.yml
 └── README.md
 
+![Application Architecture Diagram](./architecture-diagram.png)
+
+
 Running the App with Docker:
 
     Clone the repo:
